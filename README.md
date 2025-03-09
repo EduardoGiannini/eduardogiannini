@@ -11,8 +11,10 @@
 
 
 ### Main skills:
-![.net](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=dotnet&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
+![.net](https://img.shields.io/badge/-.net-0D1117?style=for-the-badge&logo=t&labelColor=0D1117&textColor=0D1117)&nbsp;
+![ASP.NET](https://img.shields.io/badge/-asp.net-0D1117?style=for-the-badge&logo=&labelColor=0D1117&textColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=&logoColor=purple&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
@@ -25,7 +27,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Redis](https://img.shields.io/badge/-redis-0D1117?style=for-the-badge&logo=redis&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongodb-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 
